@@ -10,3 +10,7 @@ C:\l_git\c_vs\myRabbitClass\myRabbitClass\obj\Debug\myRabbitClass.csproj.CoreCom
 C:\l_git\c_vs\myRabbitClass\myRabbitClass\obj\Debug\myRabbitClass.csproj.CopyComplete
 C:\l_git\c_vs\myRabbitClass\myRabbitClass\obj\Debug\myRabbitClass.dll
 C:\l_git\c_vs\myRabbitClass\myRabbitClass\obj\Debug\myRabbitClass.pdb
+C:\l_git\bslRabbit\myRabbitClass\obj\Debug\myRabbitClass.csprojAssemblyReference.cache
+C:\l_git\bslRabbit\myRabbitClass\obj\Debug\myRabbitClass.csproj.CoreCompileInputs.cache
+C:\l_git\bslRabbit\myRabbitClass\obj\Debug\myRabbitClass.dll
+C:\l_git\bslRabbit\myRabbitClass\obj\Debug\myRabbitClass.pdb
